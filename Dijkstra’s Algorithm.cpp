@@ -1,5 +1,4 @@
-#include
-#include
+#include<iostream>
 using namespace std;
 
 int miniDist(int distance[], bool Tset[]) // finding minimum distance
